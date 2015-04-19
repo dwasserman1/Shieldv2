@@ -1,0 +1,155 @@
+
+                            <!DOCTYPE html><!--[if lt IE 9]><html class="lt-ie9" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# video: http://ogp.me/ns/video#"><![endif]-->
+                            <!--[if IE 9]><html class="ie9" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# video: http://ogp.me/ns/video#"><![endif]-->
+                            <!--[if gt IE 9]><!-->
+                            <html prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# video: http://ogp.me/ns/video#"><!--<![endif]-->
+                              <head>
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+                                <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+                                <meta name="apple-mobile-web-app-capable" content="yes">
+                                <meta name="viewport" content="user-scalable=no, width=device-width, minimal-ui">
+                                <title>The Avengers Age of Ultron Movie | Trailer & Official Movie Site | In Theaters May 1</title>
+                                <meta name="title" content="!{pageTitle}">
+                                <meta name="description" content="Join legions of eager fans anticipating Marvel's Avengers: Age of Ultron. All your favorite heroes – from Iron Man to Captain America – assemble as a mighty team. In Theaters May 1!">
+                                <meta name="keywords" content="Marvel, The Avengers, Age of Ultron, The Avengers Age of Ultron, Avengers Movie, Joss Whedon, Iron Man, Black Widow, Nick Fury, Hawkeye, Thor, Captain America, Vision, Ultron, Hulk, Quicksilver, Scarlet Witch, Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans, Scarlett Johansson, Jeremy Renner, Aaron Taylor-Johnson, Elizabeth Olsen, Paul Bettany, Cobie Smulders, James Spader, Samuel L. Jackson, Joss Whedon, Kevin Feige, Louis D’Esposito, Alan Fine, Victoria Alonso, Jeremy Latcham, Patricia Whitcher, Stan Lee, Jon Favreau">
+                                <meta name="og:title" content="!{pageTitle}">
+                                <meta property="og:type" content="video.movie">
+                                <meta property="og:url" content="http://www.marvel.com/avengers">
+                                <meta property="og:image" content="http://i.annihil.us/u/prod/avengersmovie/avengers2/teaser/images/share.jpg">
+                                <meta property="og:title" content="The Avengers Age of Ultron Movie">
+                                <meta property="og:description" content="Join legions of eager fans anticipating Marvel's Avengers: Age of Ultron. All your favorite heroes – from Iron Man to Captain America – assemble as a mighty team. In Theaters May 1!">
+                                <meta property="og:site_name" content="Marvel.com">
+                                <meta property="fb:app_id" content="868196839892865">
+                                <meta name="twitter:card" content="summary">
+                                <meta name="twitter:site" content="@Marvel">
+                                <meta name="twitter:creator" content="@Marvel">
+                                <meta name="twitter:title" content="The Avengers Age of Ultron Movie">
+                                <meta name="twitter:description" content="Join legions of eager fans anticipating Marvel's Avengers: Age of Ultron. All your favorite heroes – from Iron Man to Captain America – assemble as a mighty team. In Theaters May 1!">
+                                <meta name="twitter:image" content="http://i.annihil.us/u/prod/avengersmovie/avengers2/teaser/images/share.jpg">
+                                <meta name="twitter:url" content="http://www.marvel.com/avengers">
+                                <meta name="twitter:domain" content="http://www.marvel.com">
+                                <link href="http://fonts.googleapis.com/css?family=Titillium+Web:400,700,700italic,400italic|Dosis:700" rel="stylesheet" type="text/css">
+                                <link rel="canonical" href="http://www.marvel.com/avengers">
+                                <link rel="image_src" type="image/jpeg" href="http://i.annihil.us/u/prod/avengersmovie/avengers2/teaser/images/share.jpg">
+                                <link rel="shortcut icon" href="http://i.annihil.us/u/prod/avengersmovie/avengers2/mainsite/images/favicon.ico">
+                                <base href="http://i.annihil.us/u/prod/avengersmovie/avengers2/mainsite/">
+                                <script type="text/javascript">
+                                  window.ProjectC = window.ProjectC || {};
+                                  ProjectC.presets = ProjectC.presets || {};
+                                  ProjectC.presets.absURL = 'http://marvel.com/avengers';
+                                  ProjectC.presets.baseURL = 'http://i.annihil.us/u/prod/avengersmovie/avengers2/mainsite';
+                                  ProjectC.presets.fbApp = '868196839892865';
+                                       
+                                  ProjectC.presets.dataFile = ProjectC.presets.baseURL+'/json/settings3.json';
+                                  
+                                </script>
+                                <script type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
+                                <script type="text/javascript" src="http://admin.brightcove.com/js/APIModules_all.js"></script>
+                                <script type="text/javascript" src="http://marvel.com/i/js/marvel-widgets.js"></script>
+                                <script type="text/javascript">
+                                  var URLs = {
+                                  	'login': 'https://secure.marvel.com/user/login?referer=http%3A%2F%2Fmarvel.com%2Favengers',
+                                  	'signup': 'https://secure.marvel.com/user/register?referer=http%3A%2F%2Fmarvel.com%2Favengers',
+                                  	'comicReader': 'http://reader.marvel.com/#/issue/',
+                                  	'rpxWidgetUrl': 'http://widget-cdn.rpxnow.com/js/lib/forge.marvel.com/widget.js',
+                                  	'rpxWidgetUrlSecure': 'https://rpxnow.com/js/lib/forge.marvel.com/widget.js'
+                                  };
+                                  MarvelWidgets.init({
+                                  	home_url: "http://www.marvel.com/avengers",
+                                  	current_section: "movies",
+                                  	staging: "http://marvel.com",
+                                  	targets: {
+                                  		topnav: "marvelMenu"
+                                  	},
+                                  	settings: {
+                                  		exclude_search: true,
+                                  		exclude_login: true,
+                                  		small_nav: true,
+                                  		responsive: true,
+                                  		version: 2
+                                  	}
+                                  });
+                                </script>
+                                <link rel="stylesheet" type="text/css" href="css/main4.css">
+                              </head>
+                              <body>
+                                <div id="fb-root"></div>
+                                <div id="marvelMenu"></div>
+                                <div id="preloader" class="TL">
+                                  <div id="art" class="C abs">
+                                    <div id="proxy" class="TL"></div>
+                                    <div id="progress" class="TL abs"></div>
+                                  </div>
+                                </div>
+                                <div id="header" class="TL">
+                                  <div id="headerTL" class="TL">
+                                    <ul id="shareBtns" class="hList"></ul>
+                                    <div id="news">
+                                      <div id="newsTitle" class="dosisBold">LATEST NEWS</div>
+                                      <div id="newsContent" class="dosisBold">Loading news...</div>
+                                    </div>
+                                  </div><a id="sound" href="#" class="TR"></a>
+                                </div>
+                                <div id="shell" class="TL">
+                                  <div id="home" class="TL absFull">
+                                    <div id="threeStage" class="TL absFull"></div>
+                                    <div id="curtain" class="TL absFull"></div>
+                                  </div>
+                                  <div id="date"></div>
+                                  <div id="legal">
+                                    <div id="foot">
+                                      <ul>
+                                        <li><img src="images/rating.png" alt="This Film is Not Yet Rated"></li>
+                                      </ul>
+                                      <ul class="links">
+                                        <li>© 2015 MARVEL</li>
+                                        <li><a target="_blank" href="http://www.marvel.com/corporate/about" class="exit">MARVEL CORPORATE INFO</a></li>
+                                        <li><a target="_blank" href="http://www.marvel.com/help?sub=user_help.php" class="exit">CUSTOMER SERVICE</a></li>
+                                        <li><a target="_blank" href="http://www.filmratings.com/" class="exit">FILMRATINGS.COM</a></li>
+                                        <li><a target="_blank" href="http://www.mpaa.org/" class="exit">MPAA.ORG</a></li>
+                                        <li><a target="_blank" href="http://www.marvel.com/corporate/privacy/" class="exit">PRIVACY POLICY/YOUR CALIFORNIA PRIVACY RIGHTS</a></li>
+                                        <li><a target="_blank" href="http://www.marvel.com/corporate/terms" class="exit">TERMS AND CONDITIONS</a></li>
+                                      </ul>
+                                    </div>
+                                  </div>
+                                  <div id="about" class="TL absFull contentOverlay"></div>
+                                  <div id="characters" class="TL absFull contentOverlay"></div>
+                                  <div id="tickets" class="TL absFull contentOverlay"></div>
+                                  <div id="videos" class="TL absFull contentOverlay"></div>
+                                  <div id="downloads" class="TL absFull contentOverlay"></div>
+                                </div>
+                                <div id="rotate">
+                                  <div class="inner"></div>
+                                </div>
+                                <script src="js/main12.js"></script>
+                                
+                                <script type="text/javascript">
+                                  window.fbAsyncInit = function() {
+                                  	// init the FB JS SDK
+                                  	FB.init({
+                                  		appId      : ProjectC.presets.fbApp, // App ID from the App Dashboard
+                                  		status     : false, // check the login status upon init?
+                                  		cookie     : false,
+                                  		xfbml      : false
+                                  	});
+                                  };
+                                  
+                                  // Load the SDK's source Asynchronously
+                                  (function(d){
+                                  	var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+                                  	if (d.getElementById(id)) {return;}
+                                  	js = d.createElement('script'); js.id = id; js.async = true;
+                                  	js.src = "//connect.facebook.net/en_US/all.js";
+                                  	ref.parentNode.insertBefore(js, ref);
+                                  }(document));
+                                  
+                                  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                                  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                                  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                                  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+                                  
+                                  ga('create', 'UA-42435060-3', 'auto');
+                                  ga('send', 'pageview');
+                                </script>
+                              </body>
+                            </html>
