@@ -1,0 +1,785 @@
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" 
+	  xmlns:fb="http://ogp.me/ns/fb#">
+
+<head>
+    <meta charset="utf-8">
+    <meta id="viewport" name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+    
+    
+    	
+    		<title>S.H.I.E.L.D. Mainframe - Debriefing</title>
+    	
+    	
+    
+    
+    	
+    	
+    		<meta name="description" content="">
+    	
+    
+    
+    	
+    	
+    		<meta name="keywords" content="">
+    	
+    
+
+	
+	
+	
+	
+
+<script src="http://www.battleofnewyork.net/static/core/scripts/jquery-1.8.3.min.js?v=3.11" type="text/javascript"></script>
+<script src="http://www.battleofnewyork.net/static/core/scripts/jwplayer/jwplayer.js?v=3.11" type="text/javascript"></script>
+<script>jwplayer.key="gfduKOjXeWUCrBmKm/WATAgjr2hGAQQAKjGDcA=="</script>
+<script src="http://www.battleofnewyork.net/static/core/scripts/jwplayer-callback.js?v=3.11" type="text/javascript"></script>
+<script src="http://www.battleofnewyork.net/static/core/scripts/swfobject.js?v=3.11" type="text/javascript"></script>
+<link href="http://www.battleofnewyork.net/static/core/framework/framework.css?v=3.11" rel="stylesheet" type="text/css" />
+<link href="http://www.battleofnewyork.net/static/core/widgets/widgets.css?v=3.11" rel="stylesheet" type="text/css" />
+<link href="http://www.battleofnewyork.net/static/core/basic/basic.css?v=3.11" rel="stylesheet" type="text/css" />
+	
+	
+	
+    
+		<link href="http://www.battleofnewyork.net/static/realm/shield/styles/shield.css?v=3.11" rel="stylesheet"> 
+	
+    
+    <!-- fav and touch icons -->
+    
+      
+      
+      	<link rel="shortcut icon" href="http://www.battleofnewyork.net/static/realm/shield/images/icons/favicon.ico?v=3.11"/>
+      
+    
+    
+<!-- CMS Controlled -->
+
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.battleofnewyork.net/static/realm/shield/images/icons/icon-144.png?v=3.11">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.battleofnewyork.net/static/realm/shield/images/general/icons/icon-114.png?v=3.11">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.battleofnewyork.net/static/realm/shield/images/general/icons/icon-72.png?v=3.11">
+<link rel="apple-touch-icon-precomposed" href="http://www.battleofnewyork.net/static/realm/shield/images/general/icons/icon-57.png?v=3.11">
+
+	<style type="text/css">
+	
+	
+	
+		
+		
+			
+			
+				body #fw-background{background:url(http://www.battleofnewyork.net/static-cms/shield/background501.png) no-repeat center top;}
+			
+			
+			
+			
+		
+		
+	
+
+	
+	
+	
+	
+		
+		
+			
+			
+			
+			
+		
+
+	
+
+	
+
+	</style>
+
+	
+
+	<style type="text/css">
+		
+	</style>
+
+<!--[if lte IE 7]> <body class="ie7 logged-in"> <![endif]-->  
+<!--[if IE 8]>     <body class="ie8 logged-in"> <![endif]-->
+
+
+	
+  
+		
+</head>
+
+<body class="logged-in">
+
+	
+
+
+
+<div id="fw-footer-background">
+<div id="fw-background">
+
+<div id="fw-wrapper" class="simple-page">
+
+	<div id="fw-page-height">
+
+		<div id="fw-header">
+			
+
+<div>
+
+
+
+
+<!-- widget ID: 85  -->
+
+
+
+
+
+
+<!-- including widget HtmlWidget- -->
+
+	
+		
+		
+			
+		
+	
+	
+
+
+
+
+<div class="wdgt-html" id="hdr-logoWidget">
+
+
+<div id="header-left"><a id="header-shield" title="Home" href="/index.htm"></a>
+<h1><b>S.H.I.E.L.D.</b> MAINFRAME</h1>
+<div id="pos-lights"></div></div>
+<div id="header-right">
+<div id="header-date">
+<script type="text/javascript">
+	var currentTime = new Date()
+	var date = currentTime.getDate()
+
+	var weekday = new Array(7);
+	weekday[0] = "Sunday";
+	weekday[1] = "Monday";
+	weekday[2] = "Tuesday";
+	weekday[3] = "Wednesday";
+	weekday[4] = "Thursday";
+	weekday[5] = "Friday";
+	weekday[6] = "Saturday";
+
+	var day = weekday[currentTime.getDay()];
+
+	var monthn = new Array(7);
+	monthn[0] = "January";
+	monthn[1] = "February";
+	monthn[2] = "March";
+	monthn[3] = "April";
+	monthn[4] = "May";
+	monthn[5] = "June";
+	monthn[6] = "July";
+	monthn[7] = "August";
+	monthn[8] = "September";
+	monthn[9] = "October";
+	monthn[10] = "November";
+	monthn[11] = "December";
+
+	var month = monthn[currentTime.getMonth()];
+
+	if (date < 10) {
+		date = '0' + date;
+	}
+
+	document.write('<p id="bigdate">' + date + '</p>', '<p id="month">' + month + '</p>', '<p id="day">' + day + '</p>')
+</script>
+</div></div>
+</div>
+
+
+	
+
+
+
+</div>				
+
+		</div>
+
+		<div id="fw-col1" class="span10 fw-content">
+			
+
+    
+
+
+			
+
+
+
+
+
+<div id="wdgt-static-content" class="">
+	<div>
+		
+
+<!-- widget ID: 106:Button  -->
+
+
+
+
+
+
+<!-- including widget OfferWidget-Button -->
+
+	
+		
+			
+		
+		
+	
+	
+
+
+
+
+	<div class="wdgt-button wdgt-offer" id="contentWidget2">
+	<div>
+	
+			
+		
+		
+			
+			
+			
+
+
+<!-- ordered-button -->
+	
+	
+	
+	
+	
+	
+		
+		
+		
+			
+			
+			
+			
+				
+			
+			
+		
+	
+	
+	
+
+
+<!-- ordered-button-digital-stream -->
+
+	
+	
+	
+	
+	
+	
+		
+			
+		
+	
+	
+	
+
+	<div class="video-wrap">
+		<div class="wdgt-video" id="contentWidget2-stream">
+			<div>
+				<h2>S.H.I.E.L.D. DEBRIEFING</h2>
+				<div>
+					<div class="loading-video"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	
+		
+			<script>
+		   		$.post('http://www.battleofnewyork.net/get-stream-url.htm',
+					   { p: '7', mo: '1096363'},
+					   function (data) {
+							if(data.success) {
+								$("#contentWidget2-stream").html('	<h2>S.H.I.E.L.D. DEBRIEFING</h2> <iframe src="' + data.url + '" frameBorder="0" width="100%" height="433" scrolling="no"></iframe>');
+							}
+					   }
+				);
+		    </script>
+		 
+		 
+		     
+    
+    
+			
+			
+		
+	
+	
+</div>
+</div>
+
+
+
+		
+
+<!-- widget ID:   -->
+
+
+
+
+
+
+<!-- including widget - -->
+
+
+		
+
+<!-- widget ID:   -->
+
+
+
+
+
+
+<!-- including widget - -->
+
+
+		
+
+<!-- widget ID:   -->
+
+
+
+
+
+
+<!-- including widget - -->
+
+
+		
+
+<!-- widget ID:   -->
+
+
+
+
+
+
+<!-- including widget - -->
+
+
+		
+
+<!-- widget ID:   -->
+
+
+
+
+
+
+<!-- including widget - -->
+
+
+		
+
+<!-- widget ID:   -->
+
+
+
+
+
+
+<!-- including widget - -->
+
+
+		
+
+<!-- widget ID:   -->
+
+
+
+
+
+
+<!-- including widget - -->
+
+
+		
+
+<!-- widget ID:   -->
+
+
+
+
+
+
+<!-- including widget - -->
+
+
+	</div>
+</div>
+
+
+			
+
+<!-- widget ID:   -->
+
+
+
+
+
+
+<!-- including widget - -->
+
+
+		</div>
+		<div id="fw-page-height-pad"></div>
+	</div>
+
+	<div id="fw-footer">
+		
+
+
+
+
+<ul>
+<li id="fw-ft">	
+			
+				
+					
+
+<!-- widget ID: 105  -->
+
+
+
+
+
+
+<!-- including widget MenuWidget- -->
+
+	
+		
+		
+			
+		
+	
+	
+
+
+
+
+<div id="" class="wdgt-navigation">
+<div>
+	<ul class="footer">
+		
+			
+			
+				<li class="m1"><a onclick="tracklink('footer-menu_nav1');" id="nav1" href="http://www.battleofnewyork.net/index.htm"    >&nbsp;</a></li>
+			
+			
+			
+		
+		
+			
+			
+				<li class="m2"><a onclick="tracklink('footer-menu_nav2');" id="nav2" href="http://www.battleofnewyork.net/faq.htm#a1"    ><span>Where do I find my Code?</span></a></li>
+			
+			
+			
+		
+		
+			
+			
+				<li class="m3"><a onclick="tracklink('footer-menu_nav3');" id="nav3" href="http://www.battleofnewyork.net/faq.htm"    ><span>FAQs</span></a></li>
+			
+			
+			
+		
+		
+			
+			
+				<li class="m4"><a onclick="tracklink('footer-menu_nav4');" id="nav4" href="http://www.battleofnewyork.net/privacy-policy.htm"    ><span>Privacy Policy</span></a></li>
+			
+			
+			
+		
+		
+			
+			
+				<li class="m5"><a onclick="tracklink('footer-menu_nav5');" id="nav5" href="http://www.battleofnewyork.net/contact.htm"    ><span>Contact us</span></a></li>
+			
+			
+			
+		
+		
+			
+			
+			
+			
+		
+		
+			
+			
+			
+			
+		
+		
+			
+			
+			
+			
+		
+		
+			
+			
+			
+			
+		
+		
+			
+			
+			
+			
+				
+	</ul>
+</div>
+</div>
+
+	
+				
+				
+			
+</li>
+<li id="fw-fb">
+<ul>
+<li id="fw-fl">		
+			
+				
+					
+
+<!-- widget ID: 87  -->
+
+
+
+
+
+
+<!-- including widget HtmlWidget- -->
+
+	
+		
+		
+			
+		
+	
+	
+
+
+
+
+<div class="wdgt-html" id="ftr-footerWidgetBottomLeft">
+
+
+<p>&copy; MARVEL</p>
+</div>
+
+
+	
+				
+				
+			
+</li>
+<li id="fw-fm">
+			
+				
+				
+			
+</li>
+<li id="fw-fr">
+			
+				
+					
+
+<!-- widget ID: 82  -->
+
+
+
+
+
+
+<!-- including widget HouseAdWidget- -->
+
+	
+		
+		
+			
+		
+	
+	
+
+
+
+
+				
+
+
+
+	
+
+
+
+
+			
+
+	
+
+	<div class="wdgt-image " id="ftr-footerWidgetBottomRight">
+
+		
+
+			
+
+			
+				<img src="http://www.battleofnewyork.net/static-cms/shield/marvellogo502.png" alt="Marvel Logo" />
+			
+
+		
+	
+	</div>
+	
+	
+ 	
+	 
+
+
+
+	
+
+
+
+
+	
+				
+				
+			
+</li>
+</ul>
+</li>
+</ul>
+
+
+
+
+
+	</div>
+
+</div>
+</div>
+</div>
+
+
+
+
+        
+        
+       
+	  
+	
+	<script type="text/javascript">
+	$('#fw-footer .wdgt-navigation #nav1').removeAttr('href');	
+	</script>
+	
+    <!-- scripts -->
+
+<script src="http://www.battleofnewyork.net/static/core/framework/framework.js?v=3.11" type="text/javascript"></script>
+<script src="http://www.battleofnewyork.net/static/core/scripts/main.js?v=3.11" type="text/javascript"></script>
+
+    
+    
+    
+    
+    
+		<script src="http://www.battleofnewyork.net/static/realm/shield/scripts/shield.js?v=3.11"></script>
+	 
+
+
+	
+
+	<!-- BEGIN DOL Web Analytics 1.0 DO NOT EDIT OR REMOVE THIS LINE-->
+
+    
+        
+        
+            
+                
+                
+                    <script type="text/javascript" src="//global.go.com/stat/dolWebAnalytics.js"></script>
+                
+            
+        
+    
+
+	
+
+	<script type="text/javascript">
+	
+        
+        
+            cto=new CTO();
+            
+                
+                
+                    cto.account="disneystaro";
+                
+            
+            cto.category="dcom";
+            cto.site="staro";
+            cto.breadcrumb="shield";
+            cto.pageName=escapeCharsForOmniture("video-stream_unlocked");
+            cto.contentType="regular";
+            cto.track();
+
+             function tracklink(linkId) {
+                    var link = 'shield_member_';
+                    link += escapeCharsForOmniture(linkId);
+                    cto.trackLink(link);
+             }
+        
+    
+
+
+	
+
+	
+
+	</script> 
+	<!-- END DOL Web Analytics 1.0 -->
+
+	</body>
+</html>
+
