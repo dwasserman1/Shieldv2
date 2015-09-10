@@ -1,0 +1,24 @@
+<!DOCTYPE HTML>
+<head>
+  <title>S.H.I.E.L.D.</title>
+  </head>
+  
+  <body>
+  <h1>WELCOME AGENT</h1>
+  <table>
+    <tr>
+      <td>News</td>
+      <td>Calendar</td>
+      <td>Tasks</td>
+    </tr>
+    
+    <tr>
+      <td>Email</td>
+      <td>Notes</td>
+      <td>Upcoming</td>
+    </tr>
+  </table>
+  
+  </body>
+  </html>
+      
